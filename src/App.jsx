@@ -7,7 +7,7 @@ function App() {
 
   return (
     <>
-      <h1>Deploy dự án React jS với Cercel miễn phí!</h1>
+      <h1>Deploy dự án React jS với Vercel miễn phí!</h1>
     </>
   )
 }
